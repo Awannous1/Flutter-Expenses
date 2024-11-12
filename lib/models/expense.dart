@@ -14,8 +14,8 @@ const categoryIcons = {
   Category.work: Icons.work,
 };
 
-class Expenes {
-  Expenes({
+class Expense {
+  Expense({
     required this.title,
     required this.amount,
     required this.date,
